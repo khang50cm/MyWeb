@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>24h.com</title>
+    <link rel="stylesheet" href="tintuc.css">
+</head>
+<body>
+
+    <header>
+        <ul class="menu">
+            <li>HD</li>
+            <li>Tin tức</li>
+            <li>World Cup</li>
+            <li>Bóng đá</li>
+            <li>Kinh doanh</li>
+            <li>Giải trí</li>
+            <li>24h TV</li>
+            <li>Sức khỏe</li>
+            <li>Thể thao</li>
+        </ul>
+    </header>
+
+    <div class="container">
+
+        <!-- Cột trái -->
+        <div class="col">
+            <img src="https://picsum.photos/350/220?1" alt="">
+            <h3>Bất ngờ với 5 thiết bị có thể sạc ngược bằng iPhone</h3>
+
+            <ul>
+                <li>iPhone 15 có nhiều tính năng mới.</li>
+                <li>Thông báo quan trọng nhất tại Microsoft Build.</li>
+                <li>3 vật dụng nên có trong phòng khi bật điều hòa.</li>
+                <li>Tên gọi của Galaxy Z Fold mới đã được chốt.</li>
+                <li>Cách giải quyết điều hòa bị đóng băng.</li>
+            </ul>
+        </div>
+
+        <!-- Cột giữa -->
+        <div class="col">
+            <img src="https://picsum.photos/350/220?2" alt="">
+            <h3>Mảnh "hành tinh đá mắt" rơi xuống sa mạc Sahara</h3>
+
+            <ul>
+                <li>Mô hình AI "khủng" với 120 tỷ tham số.</li>
+                <li>Cập nhật quan trọng cho người dùng thiết bị lưu trữ.</li>
+                <li>Những vi phạm khi sử dụng mạng xã hội.</li>
+                <li>Loạn phí thẻ mới "chấp" mọi điều kiện khắc nghiệt.</li>
+            </ul>
+        </div>
+
+        <!-- Cột phải -->
+        <div class="sidebar">
+
+            <div class="item">
+                <img src="https://picsum.photos/120/80?3" alt="">
+                <p>Man Utd cứng rắn với Barcelona...</p>
+            </div>
+
+            <div class="item">
+                <img src="https://picsum.photos/120/80?4" alt="">
+                <p>Elliot Anderson và cái giá 100 triệu bảng.</p>
+            </div>
+
+            <div class="item">
+                <img src="https://picsum.photos/120/80?5" alt="">
+                <p>Cafu: Vì sao ông được xem là huyền thoại?</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
